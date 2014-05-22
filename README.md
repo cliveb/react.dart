@@ -1,4 +1,4 @@
 react.dart
 ==========
 
-port of react.js to dart
+begin port of react.js to dart
